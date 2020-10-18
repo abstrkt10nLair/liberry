@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/liberry/static/css/main.36497136.chunk.css",
+    "main.js": "/liberry/static/js/main.ef6047d8.chunk.js",
+    "main.js.map": "/liberry/static/js/main.ef6047d8.chunk.js.map",
+    "runtime-main.js": "/liberry/static/js/runtime-main.576ec784.js",
+    "runtime-main.js.map": "/liberry/static/js/runtime-main.576ec784.js.map",
+    "static/js/2.6cffebcd.chunk.js": "/liberry/static/js/2.6cffebcd.chunk.js",
+    "static/js/2.6cffebcd.chunk.js.map": "/liberry/static/js/2.6cffebcd.chunk.js.map",
+    "index.html": "/liberry/index.html",
+    "precache-manifest.bd87de931897a82de226fa0fa6376fe8.js": "/liberry/precache-manifest.bd87de931897a82de226fa0fa6376fe8.js",
+    "service-worker.js": "/liberry/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/liberry/static/css/main.36497136.chunk.css.map",
+    "static/js/2.6cffebcd.chunk.js.LICENSE.txt": "/liberry/static/js/2.6cffebcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.576ec784.js",
+    "static/js/2.6cffebcd.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.ef6047d8.chunk.js"
+  ]
+}
