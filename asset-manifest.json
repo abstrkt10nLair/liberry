@@ -1,22 +1,26 @@
 {
   "files": {
     "main.css": "/liberry/static/css/main.36497136.chunk.css",
-    "main.js": "/liberry/static/js/main.ef6047d8.chunk.js",
-    "main.js.map": "/liberry/static/js/main.ef6047d8.chunk.js.map",
+    "main.js": "/liberry/static/js/main.eba9078b.chunk.js",
+    "main.js.map": "/liberry/static/js/main.eba9078b.chunk.js.map",
     "runtime-main.js": "/liberry/static/js/runtime-main.576ec784.js",
     "runtime-main.js.map": "/liberry/static/js/runtime-main.576ec784.js.map",
-    "static/js/2.6cffebcd.chunk.js": "/liberry/static/js/2.6cffebcd.chunk.js",
-    "static/js/2.6cffebcd.chunk.js.map": "/liberry/static/js/2.6cffebcd.chunk.js.map",
+    "static/css/2.cfc8ddb2.chunk.css": "/liberry/static/css/2.cfc8ddb2.chunk.css",
+    "static/js/2.63b6cab4.chunk.js": "/liberry/static/js/2.63b6cab4.chunk.js",
+    "static/js/2.63b6cab4.chunk.js.map": "/liberry/static/js/2.63b6cab4.chunk.js.map",
     "index.html": "/liberry/index.html",
-    "precache-manifest.bd87de931897a82de226fa0fa6376fe8.js": "/liberry/precache-manifest.bd87de931897a82de226fa0fa6376fe8.js",
+    "precache-manifest.d1122f9ab816b19b71541f08d2049eb2.js": "/liberry/precache-manifest.d1122f9ab816b19b71541f08d2049eb2.js",
     "service-worker.js": "/liberry/service-worker.js",
+    "static/css/2.cfc8ddb2.chunk.css.map": "/liberry/static/css/2.cfc8ddb2.chunk.css.map",
     "static/css/main.36497136.chunk.css.map": "/liberry/static/css/main.36497136.chunk.css.map",
-    "static/js/2.6cffebcd.chunk.js.LICENSE.txt": "/liberry/static/js/2.6cffebcd.chunk.js.LICENSE.txt"
+    "static/js/2.63b6cab4.chunk.js.LICENSE.txt": "/liberry/static/js/2.63b6cab4.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/liberry/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.576ec784.js",
-    "static/js/2.6cffebcd.chunk.js",
+    "static/css/2.cfc8ddb2.chunk.css",
+    "static/js/2.63b6cab4.chunk.js",
     "static/css/main.36497136.chunk.css",
-    "static/js/main.ef6047d8.chunk.js"
+    "static/js/main.eba9078b.chunk.js"
   ]
 }
